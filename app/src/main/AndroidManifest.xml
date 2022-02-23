@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cadastro">
         <activity
-            android:name=".FormularioActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FormularioActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
