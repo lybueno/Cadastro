@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
 
     <string-array name="ufs">
         <item>Acre</item>

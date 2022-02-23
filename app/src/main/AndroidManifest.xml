@@ -11,10 +11,7 @@
         android:theme="@style/Theme.Cadastro">
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
-        <activity
-            android:name=".FormularioActivity"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
